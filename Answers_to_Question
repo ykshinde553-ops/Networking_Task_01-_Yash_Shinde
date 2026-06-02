@@ -1,0 +1,48 @@
+1. What is an IP Address?
+
+An IP (Internet Protocol) Address is a unique numerical identifier assigned to a device on a network. It allows devices to communicate with each other and exchange data over the Internet or local networks.
+
+Example:
+
+192.168.1.10
+2. What is a MAC Address?
+
+A MAC (Media Access Control) Address is a unique physical address assigned to a network interface card by the manufacturer. It is used for communication within a local network.
+
+Example:
+
+00:1A:2B:3C:4D:5E
+3. What is a Default Gateway?
+
+A Default Gateway is the router that connects a local network to other networks, including the Internet. It forwards packets from the local device to external destinations.
+
+Example:
+
+192.168.1.1
+4. What is DNS?
+
+DNS (Domain Name System) translates human-readable domain names into IP addresses.
+
+Example:
+
+www.google.com
+
+is converted into
+
+142.250.193.78
+5. Difference Between Public IP and Private IP
+Public IP			Private IP
+Used on Internet		Used in local networks
+Assigned by ISP			Assigned by Router
+Globally unique			Reusable
+Accessible from Internet	Not directly accessible
+
+Examples:
+
+Public IP:
+
+49.36.125.10
+
+Private IP:
+
+192.168.1.10
