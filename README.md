@@ -12,7 +12,7 @@ System Details
 Parameter	Value
 Hostname	kali
 IPv4 Address	192.168.239.128
-MAC Address	00:0c:29:52:9b:4e
+MAC Address	00:0c:29:00:00:00
 Default Gateway	Not Available (Run ip route)
 DNS Server	Not Available (Run cat /etc/resolv.conf)
 Commands Used
